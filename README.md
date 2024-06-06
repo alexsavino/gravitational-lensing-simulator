@@ -19,4 +19,4 @@ For a comprehensive description of my motivation, the project's structure, the c
 
 (Another NOTE: I revisited and edited this project a year later, so the example run you see above may differ slightly from the graphics in the paper.) 
 
-Looking back, there's much more that can be done to improve or build upon this project. If you're interested, please reach out, fork the project, and submit a pull request. :)
+Looking back, there's much more that can be done to improve or build upon this project. If you're interested, please reach out, fork the project, and submit a pull request. Excited to work together!! :)
